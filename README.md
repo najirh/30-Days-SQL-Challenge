@@ -2,7 +2,7 @@
 
 Welcome to the SQL Interview Question Solve Challenge repository! In this repository, you'll find solutions to common SQL interview questions tailored for Data Analysts and Business Analysts. This repository is part of our YouTube series where we tackle one SQL interview question per day for 30 days.
 
-![SQL Interview Question Solve Challenge](https://example.com/your-image-url.jpg)
+![SQL Interview Question Solve Challenge](https://github.com/najirh/30-Days-SQL-Challenge/blob/main/SQL%20Challenge%200130.png)
 
 ## About the Series
 
@@ -18,9 +18,8 @@ Contributions to this repository are welcome! If you have a solution to a SQL in
 
 ## Connect with Us
 
-- Subscribe to our YouTube channel: [Your YouTube Channel](https://www.youtube.com/your-channel)
-- Follow us on Twitter: [@YourTwitterHandle](https://twitter.com/your-twitter-handle)
-- Join our Discord community: [Link to Discord](https://discord.gg/your-discord-link)
+- Subscribe to our YouTube channel: [Your YouTube Channel](https://youtu.be/aKmDHTaYS6w)
+- Follow us on LinkedIn: [@LinkedIn](https://www.linkedin.com/in/najirr/)
 
 ## Support Us
 
