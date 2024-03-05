@@ -1,4 +1,4 @@
--- SQL 01/30 Days 
+-- SQL 01/30 Days  
 -- Amazon Interview Practice 21/02/2024
 
 
